@@ -1,6 +1,6 @@
 # pos_replica
 
-pos app by lookins studio
+pos app by looking studio
 
 ## Getting Started
 
